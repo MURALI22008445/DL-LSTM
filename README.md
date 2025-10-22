@@ -38,7 +38,7 @@ Evaluate model accuracy, plot loss curves, and visualize predictions on a sample
 
 ## PROGRAM
 
-### Name: Muralu.S
+### Name: Murali.S
 
 ### Register Number: 212222230088
 
